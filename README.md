@@ -11,7 +11,7 @@ This repository contains a step-by-step guide to automate the starting and stopp
 
 ## Getting Started
 
-1. **Clone the Repository:**
+1. **Clone the Repository:(Not required but can for preference)**
     ```bash
     git clone https://github.com/leju-b/EC2-start-stop-automation-project
     ```
